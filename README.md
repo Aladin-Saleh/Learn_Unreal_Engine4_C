@@ -5,7 +5,7 @@ Aladin SALEH.
 
 
 
-#Change the gamemode
+# Change the gamemode
 
 Create a new C++ Class :
 Show all class and find GameMode and create your class
